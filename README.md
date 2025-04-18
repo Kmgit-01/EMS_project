@@ -20,7 +20,7 @@ Visiting (paid per day worked)
 No Complex Setup: Runs on any laptop with a C++ compiler.
 
 Team Members	              Registration No.
-KARTIK MAHESHWARI	          24BAI10101
-HARSHIT SHUKLA	             24BAI10330
-SANNIDHYA KUMAR SONBER	     24BAI10049
+KARTIK MAHESHWARI	   -       24BAI10101 ,
+HARSHIT SHUKLA	      -       24BAI10330 ,
+SANNIDHYA KUMAR SONBER	 -    24BAI10049,
 
